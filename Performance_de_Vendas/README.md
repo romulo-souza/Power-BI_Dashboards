@@ -12,7 +12,7 @@ Além dessas tabelas, foi criada uma tabela exclusiva para **Medidas**, com o ob
 
 A imagem a seguir mostra a organização dos relacionamentos entre as tabelas.
 
-<img src="images/modelagem_dados.png" width="650"/>
+<img src="images/modelagem_dados.PNG" width="650"/>
 
 ## 📊 Principais KPIs Monitorados
 
