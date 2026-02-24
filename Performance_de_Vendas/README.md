@@ -12,10 +12,7 @@ Além dessas tabelas, foi criada uma tabela exclusiva para **Medidas**, com o ob
 
 A imagem a seguir mostra a organização dos relacionamentos entre as tabelas.
 
-<figure align="center">
-  <img src="images/modelagem_dados.png" width="630">
-  <figcaption><em>Figura 1 — Modelo dimensional estruturado em Star Schema.</em></figcaption>
-</figure>
+<img src="images/modelagem_dados.png" width="650"/>
 
 ## 📊 Principais KPIs Monitorados
 
